@@ -15,7 +15,7 @@
   <img align="center" alt="leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="leo-yoda" height="200" style="border-radius:50px;" src="https://64.media.tumblr.com/a590559f8436992a3a45801ca8584d5c/e4480d2dc757bb49-10/s400x600/32f903b3b1504218af6fe577a6e7f70e8fda0cb6.gifv">
-</div>
+  </div>
 
   ##
 <div> 
