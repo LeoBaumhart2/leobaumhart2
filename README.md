@@ -1,7 +1,7 @@
 ### Oii, sou o Léo! 👋
 
-- 🔭 Sou desenvolvedor Full Stack
-- 🌱 Atualmente estou estudando Python
+- 🔭 Sou desenvolvedor Full Stack   - 🌱 Atualmente estou estudando Python
+
 
 <div align="center">
   <a href="https://github.com/leobaumhart2">
